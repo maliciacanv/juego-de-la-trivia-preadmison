@@ -1,0 +1,57 @@
+/* Estilo para body */
+body {
+  background: rgb(142, 201, 243);
+}
+/* Estilo para todos los h1 */
+h1 {
+  color: white;
+  background: #ED3D0A;
+  border-radius: 2px;
+}
+/* Estilo para la caja de texto name */
+#name {
+  border: 2px solid purple;
+  border-radius: 4px;
+  font-size: 16px;
+}
+/* Estilo para el boton 1: Jugar*/
+button {
+  padding: 10px;
+  background-color: #DE3131;
+  border-radius: 5px;
+  border: 2px solid #344941;  
+  font-size: 18px;
+  color: white;
+  text-decoration:
+}
+
+#name1 {
+  font-size: 24px;
+  color: white;
+}
+
+p, h2 {
+  font-size: 22px;
+  color: #0A1F95;
+}
+
+#score1, #score2 {
+  color: white;
+  font-size: 25px;
+}
+
+#img2 {
+  width: 200px;
+}
+
+#img3 {
+  width: 350px;
+}
+
+#img4 {
+  width: 400px;
+}
+
+#img5, #img6 {
+  width: 100px;
+}
